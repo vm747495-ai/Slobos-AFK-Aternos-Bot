@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "GNLifeStealSMP.aternos.me",
+    "port": 13148,
     "version": "",
     "try-creative": false
   },
