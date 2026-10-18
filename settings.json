@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GNLifeStealSMP.aternos.me",
-    "port": 13148,
+    "ip": "GNOneBlock.aternos.me",
+    "port": 28684,
     "version": "",
     "try-creative": false
   },
