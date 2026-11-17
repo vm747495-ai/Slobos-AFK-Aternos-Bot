@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GNOneBlock.aternos.me",
-    "port": 28684,
+    "ip": "guardiansmp.mcsh.gg",
+    "port": 19132,
     "version": "",
     "try-creative": false
   },
